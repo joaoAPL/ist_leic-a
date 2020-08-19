@@ -1,7 +1,5 @@
 #Projecto Hello Quantum
 
-#Tentativa de fazer o projecto em 1 hora
-
 def eh_tabuleiro(arg):
     if isinstance(arg, tuple) and len(arg) == 3:
         if (isinstance(arg[0], tuple) and isinstance(arg[1], tuple) and 
