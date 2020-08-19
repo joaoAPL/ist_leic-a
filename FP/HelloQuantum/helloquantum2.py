@@ -82,8 +82,8 @@ def coordenada_para_str(c):
     
 #TABULEIRO
 
-#Para representar o tipo abstracto Tabuleiro foi definido uma lista com três
-#listas sendo que cada lista tem três elementos exceptuando a terceira lista que
+#Para representar o tipo abstracto Tabuleiro foi definido uma lista com trÃªs
+#listas sendo que cada lista tem trÃªs elementos exceptuando a terceira lista que
 #tem dois elementos
 
 #Construtores
