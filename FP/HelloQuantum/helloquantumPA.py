@@ -1,7 +1,5 @@
 #Projecto Hello Quantum 2
 
-#Tentativa de fazer o projecto - 1 hora
-
 #CELULA
 
 #Para representar o tipo abstracto Celula foi definido um dicionario com a chave
