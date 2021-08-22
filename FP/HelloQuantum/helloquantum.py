@@ -1,4 +1,4 @@
-#Projecto Hello Quantum
+#93866 Joao Antonio Pinheiro Lopes
 
 def eh_tabuleiro(arg):
     if isinstance(arg, tuple) and len(arg) == 3:
