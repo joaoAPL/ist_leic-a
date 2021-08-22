@@ -2,9 +2,9 @@
 
 def eh_tabuleiro(arg):
     if isinstance(arg, tuple) and len(arg) == 3:
-        if (isinstance(arg[0], tuple) and isinstance(arg[1], tuple) and 
+        if isinstance(arg[0], tuple) and isinstance(arg[1], tuple) and 
            isinstance(arg[2], tuple) and len(arg[0]) == 3 and len(arg[1]) == 3
-           and len(arg[2]) == 2):
+           and len(arg[2]) == 2:
             for indice in range(len(arg)):
                 for elemento in arg[indice]:
                     if not (-1 <= elemento <= 1):
