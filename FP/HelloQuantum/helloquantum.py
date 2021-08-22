@@ -1,4 +1,4 @@
-#93866 Joao Antonio Pinheiro Lopes
+#93866 Joao António Pinheiro Lopes
 
 def eh_tabuleiro(arg):
     if isinstance(arg, tuple) and len(arg) == 3:
